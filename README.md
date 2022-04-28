@@ -6,10 +6,12 @@
   
  ### :books:Portfolio
   
-  https://jeong-ha.github.io/flex/ (미완)
+  :computer:https://jeong-ha.github.io/flex/ (미완)
+  
+  :art:https://jeong-ha.github.io/portfolio_gallery/ (미완)
   
   
- ### :computer:Skills
+ ### :wrench:Skills
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff"/>
   <img src="https://img.shields.io/badge/CSS5-1572B6?style=flat-square&logo=CSS3&logoColor=fff"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff"/>
