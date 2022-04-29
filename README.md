@@ -8,7 +8,7 @@
   
   :computer:https://jeong-ha.github.io/flex/ (미완):computer:
   
-  :art:https://jeong-ha.github.io/portfolio_gallery/:art:
+  :art:https://jeong-ha.github.io/portfolio_gallery/ :art:
   
   
  ### :pencil2:Skills
